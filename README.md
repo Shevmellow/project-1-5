@@ -1,6 +1,6 @@
 #  Project 1 of 5. 
 
-I'm learning how to do small project as part of the [Result School] (https://result.school/). 
+I'm learning how to do small project as part of the [Result School](https://result.school/). 
 
 ***
 
@@ -8,7 +8,7 @@ Here we figured out how to create a gallery of cards that can be interacted with
 
 ***
 
-All images are from [unsplash] (https://unsplash.com/)
+All images are from [unsplash](https://unsplash.com/)
 
 
 
