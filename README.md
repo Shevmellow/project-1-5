@@ -4,7 +4,7 @@ I'm learning how to do small project as part of the [Result School](https://resu
 
 ***
 
-Here we figured out how to create a gallery of cards that can be interacted with using a JavaScript.
+Here we figured out how to create [a gallery of cards](https://shevmellow.github.io/project-1-5/) that can be interacted with using a JavaScript.
 
 ***
 
